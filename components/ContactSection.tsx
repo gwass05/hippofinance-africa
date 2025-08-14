@@ -53,7 +53,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Address</h4>
-                  <p className="text-gray-600">Hrare, Zimbabwe</p>
+                  <p className="text-gray-600">Harare, Zimbabwe</p>
                 </div>
               </div>
             </div>
