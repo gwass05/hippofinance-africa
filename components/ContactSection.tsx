@@ -44,7 +44,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Phone</h4>
-                  <p className="text-gray-600">+234 123 456 7890</p>
+                  <p className="text-gray-600">+263 774 424 330</p>
                 </div>
               </div>
               <div className="flex items-center space-x-4">
@@ -53,7 +53,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Address</h4>
-                  <p className="text-gray-600">Lagos, Nigeria</p>
+                  <p className="text-gray-600">Hrare, Zimbabwe</p>
                 </div>
               </div>
             </div>
